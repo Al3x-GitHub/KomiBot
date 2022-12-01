@@ -33,7 +33,7 @@ Please Star This Project Before Using It.
 </p>
 
 <h3 align="center">
-    Ready to use method
+    ─「 Ready To Use Method 」─
 </h3>
 
 <p align="center">
@@ -42,7 +42,7 @@ Please Star This Project Before Using It.
 </p>
 
 <h3 align="center">
-   ⇝ Requirements ⇜
+   ─「 Requirements 」─
 </h3>
 
 <p align="center">
@@ -53,7 +53,7 @@ Please Star This Project Before Using It.
 </p>
 
 <h3 align="center">
-   ⇝ Install Locally Or On A VPS ⇜
+   ─「 Install Locally Or On A VPS  」─
 </h3>
 
 ```console
