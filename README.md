@@ -15,7 +15,11 @@
     </a>
     <a href="https://GitHub.com/Al3x-GitHub">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
-    </a> <br>
+    </a>
+
+<img src="https://te.legra.ph/file/adf86867b93e5b3377430.jpg">
+
+ <br>
     <img src="https://img.shields.io/github/license/Al3x-GitHub/KomiBot?style=for-the-badge&logo=appveyor" alt="LICENSE">
     <img src="https://img.shields.io/github/contributors/Al3x-GitHub/KomiBot?style=for-the-badge&logo=appveyor" alt="Contributors">
     <img src="https://img.shields.io/github/repo-size/Al3x-GitHub/KomiBot?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
