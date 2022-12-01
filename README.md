@@ -21,7 +21,7 @@
 
  <br>
     <img src="https://img.shields.io/github/license/Al3x-GitHub/KomiBot?style=for-the-badge&logo=appveyor" alt="LICENSE">
-    <img src="https://img.shields.io/https://github.com/Al3x-GitHub/KomiBot/graphs/contributors?style=for-the-badge&logo=appveyor" alt="Contributors">
+    <img src="https://img.shields.io/github.com/Al3x-GitHub/KomiBot/graphs/contributors?style=for-the-badge&logo=appveyor" alt="Contributors">
     <img src="https://img.shields.io/github/repo-size/Al3x-GitHub/KomiBot?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
     <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">
     <img src="https://img.shields.io/github/issues/Al3x-GitHub/KomiBot?style=for-the-badge&logo=appveyor" alt="Issues">
