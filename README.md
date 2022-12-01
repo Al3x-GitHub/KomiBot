@@ -35,7 +35,7 @@
 
 <p align="center">
     A ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/"> KomiBot </a>
+    <a href="http://telegram.me/KomiSanxbot"> KomiBot </a>
 </p>
 
 <h3 align="center">
