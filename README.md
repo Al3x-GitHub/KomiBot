@@ -1,5 +1,7 @@
 <h1 align="center">
-    Ҡօɱɪ ѕʌղ
+
+[Ҡօɱɪ ѕʌղ](https://github.com/KomiSanx/Komi)
+
 </h1>
 
 <h3 align="center">
