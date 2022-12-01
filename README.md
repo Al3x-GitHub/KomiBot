@@ -3,14 +3,15 @@
 [Ҡօɱɪ ѕʌղ](https://github.com/KomiSanx/Komi)
 
 </h1>
+<div align="center"><b>
+Telegram Group Manager Bot Written In Python Using Pyrogram.
 
-<h3 align="center">
-    Telegram Group Manager Bot Written In Python Using Pyrogram.
-</h3>
-<h4 align="center">
-    Please Star This Project Before Using It.
-</h4>
+</b>
 
+```
+Please Star This Project Before Using It.
+```
+</div>
 <p align="center">
     <a href="https://python.org">
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
