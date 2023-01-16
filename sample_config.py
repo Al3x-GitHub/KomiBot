@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 if path.exists("config.env"):
     load_dotenv("config.env")
 
-BOT_TOKEN = environ.get("BOT_TOKEN", 5859358588:AAEL0muib9YFVc8I9L6M9k3HhhWTWo1alYI)
+BOT_TOKEN = environ.get("5859358588:AAEL0muib9YFVc8I9L6M9k3HhhWTWo1alYI", 5859358588:AAEL0muib9YFVc8I9L6M9k3HhhWTWo1alYI)
 API_ID = int(environ.get("API_ID", 12738003))
 API_HASH = environ.get("API_HASH", "b00dd4adc30230fcd86dde58f5dee5d0")
 SUDO_USERS_ID = [int(x) for x in environ.get("SUDO_USERS_ID", "").split()]
