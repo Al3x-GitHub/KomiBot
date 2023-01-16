@@ -36,7 +36,7 @@ from pyromod import listen
 from Python_ARQ import ARQ
 from telegraph import Telegraph
 
-from sample_config import
+from sample_config import *
 
 GBAN_LOG_GROUP_ID = GBAN_LOG_GROUP_ID
 SUDOERS = SUDO_USERS_ID
