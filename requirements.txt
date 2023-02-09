@@ -12,10 +12,8 @@ pyrogram
 python-arq
 requests
 git+https://github.com/bisohns/search-engine-parser.git
-speedtest-cli
 TgCrypto
 uvloop
-youtube_dl
 bs4
 python-dotenv
 feedparser
